@@ -1,5 +1,6 @@
 from media import Movie
 
+# movies stores the list of movies to display on website
 movies = [
     Movie(
         "Bahubali 2",

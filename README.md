@@ -10,4 +10,3 @@ Source code for a Movie Trailer website.
 ```sh
 python main.py
 ```
-
